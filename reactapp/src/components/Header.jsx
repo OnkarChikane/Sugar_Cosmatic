@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
   Box,
   Flex,
@@ -11,9 +11,24 @@ import {
 } from '@chakra-ui/react';
 import { SearchIcon } from '@chakra-ui/icons';
 import { FaHeart, FaShoppingCart, FaUser } from 'react-icons/fa';
-import { Link as RouterLink } from 'react-router-dom';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
 
 const Header = () => {
+  const [searchQuery, setSearchQuery] = useState('');
+  const navigate = useNavigate();
+
+  const handleSearch = () => {
+    if (searchQuery.trim()) {
+      navigate(`/search?q=${searchQuery}`);
+    }
+  };
+
+  const handleKeyPress = (event) => {
+    if (event.key === 'Enter') {
+      handleSearch();
+    }
+  };
+
   return (
     <Box bg="black" color="white" px={4} py={2}>
       <Flex align="center" justify="space-between">
@@ -39,12 +54,16 @@ const Header = () => {
             bg="white"
             color="black"
             mr={2}
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            onKeyPress={handleKeyPress}
           />
           <IconButton
             icon={<SearchIcon />}
             borderRadius="full"
             bg="white"
             color="black"
+            onClick={handleSearch}
           />
         </Flex>
         <Spacer />
@@ -68,7 +87,6 @@ const Header = () => {
           <Box as="span" mx={5}>
             LIPS
           </Box>
-          
         </RouterLink>
         <RouterLink to="/eyes">
           <Box as="span" mx={5}>

@@ -9,7 +9,7 @@ import './Eyes.css';
 const products = [
   {
     id: 1,
-    name: 'Hand Sanitizer',
+    name: 'Kohl Of Honour Intense Kajal',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FKohl-Of-Honour-Intense-Kajal-PDP-images-Parent-page.jpg%3Fv%3D1679673305&w=256&q=75',
@@ -18,7 +18,7 @@ const products = [
   },
   {
     id: 2,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Kohl Of Honour Intense Kajal',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FArch-Arrival-Brow-Definer-PDP-images-1080x1080_Parent-Page.jpg%3Fv%3D1685633705&w=256&q=75',
@@ -27,7 +27,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F1_f4313267-b648-4ac5-86a3-6c37f14b42bc.jpg%3Fv%3D1685634287&w=256&q=75',
@@ -36,7 +36,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Kohl Of Honour Intense Kajal',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F521737983-parent-1st-card.jpg%3Fv%3D1690905085&w=256&q=75',
@@ -45,7 +45,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Kohl Of Honour Intense Kajal',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F1_336e517e-4532-4750-af42-d14deb0a9576.jpg%3Fv%3D1712244837&w=256&q=75',
@@ -54,7 +54,7 @@ const products = [
   },
   {
     id: 6,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F503159402-blacklash-volumizing-mascara-1080x10801.jpg%3Fv%3D1688228437&w=256&q=75',
@@ -72,7 +72,7 @@ const products = [
   },
   {
     id: 8,
-    name: 'HContour De Force Eyes',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644421218&w=256&q=75',
@@ -81,7 +81,7 @@ const products = [
   },
   {
     id: 9,
-    name: 'HContour De Force Eyes',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FParent.jpg%3Fv%3D1695829021&w=256&q=75',
@@ -90,7 +90,7 @@ const products = [
   },
   {
     id: 10,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lipping-on-the-edge-lip-liner-01-taffeta-terracotta-13278188568659.jpg%3Fv%3D1619109027&w=256&q=75',
@@ -99,7 +99,7 @@ const products = [
   },
   {
     id: 11,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FArtboard1.jpg%3Fv%3D1676035816&w=256&q=75',
@@ -108,7 +108,7 @@ const products = [
   },
   {
     id: 12,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F503159402-blacklash-volumizing-mascara-1080x10801.jpg%3Fv%3D1688228437&w=256&q=75',
@@ -117,7 +117,7 @@ const products = [
   },
   {
     id: 13,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FKohl-Of-Honour-Intense-Kajal-PDP-images-Parent-page.jpg%3Fv%3D1679673305&w=256&q=75',
@@ -126,7 +126,7 @@ const products = [
   },
   {
     id: 14,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FParent.jpg%3Fv%3D1695829021&w=256&q=75',
@@ -144,7 +144,7 @@ const products = [
   },
   {
     id: 16,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FArtboard1.jpg%3Fv%3D1676035816&w=256&q=75',
@@ -154,7 +154,7 @@ const products = [
   
   {
     id: 17,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Arch Arrival Brow Definer ',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FKohl-Of-Honour-Intense-Kajal-PDP-images-Parent-page.jpg%3Fv%3D1679673305&w=256&q=75',

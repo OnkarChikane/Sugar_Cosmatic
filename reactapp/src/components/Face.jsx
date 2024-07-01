@@ -9,7 +9,7 @@ import "./Face.css";
 const products = [
   {
     id: 1,
-    name: 'Hand Sanitizer',
+    name: 'Rage For Coverage Foundation',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FDreamCoverSpf15MattifyingCompactPDPImagesparent1stcard.jpg%3Fv%3D1680623338&w=256&q=75',
@@ -18,7 +18,7 @@ const products = [
   },
   {
     id: 2,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Base Of Glory Pore Minimizing Primer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FRageForCoveragePDPImagesparent1stcard.jpg%3Fv%3D1685636215&w=256&q=75',
@@ -27,7 +27,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Base Of Glory Pore Minimizing Primer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F493445505-01.jpg%3Fv%3D1712849662&w=256&q=75',
@@ -36,7 +36,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Rage For Coverage Foundation',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F464576762-launch_sugar-la-la-love-18hr-liquid-lipstick-wbg-powered-by-images_01.jpg%3Fv%3D1688227587&w=256&q=75',
@@ -45,7 +45,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Rage For Coverage Foundation',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FParent-Page_ac0201bb-8f51-447c-b6e0-4404786076a2.jpg%3Fv%3D1680364145&w=256&q=75',
@@ -54,7 +54,7 @@ const products = [
   },
   {
     id: 6,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Base Of Glory Pore Minimizing Primer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FFigma-banner-1-1-600x500-ezgif.com-optimize_1.gif%3Fv%3D1718014347&w=256&q=75',
@@ -63,7 +63,7 @@ const products = [
   },
   {
     id: 7,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Rage For Coverage Foundation',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_ef579f2e-602e-4d2f-bed2-bf0efdf4f184.jpg%3Fv%3D1644325812&w=256&q=75',
@@ -72,7 +72,7 @@ const products = [
   },
   {
     id: 8,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Rage For Coverage Foundation',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644421218&w=256&q=75',

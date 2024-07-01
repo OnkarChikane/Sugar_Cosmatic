@@ -1,5 +1,17 @@
 import React from 'react';
 import '../Styles/Footer.css';
+import { FaFacebook } from "react-icons/fa";
+import { IoLogoTumblr } from "react-icons/io5";
+import { SiYoutubemusic } from "react-icons/si";
+import { AiFillTwitterCircle } from "react-icons/ai";
+import { FaInstagram } from "react-icons/fa6";
+import { IoMdMailUnread } from "react-icons/io";
+import { FaPinterest } from "react-icons/fa6";
+
+
+
+
+
 
 const Footer = () => {
   return (
@@ -9,13 +21,14 @@ const Footer = () => {
       </div>
       <div className="inner_box_main">
         <div className="inner_box_1">
-          <a href="https://www.facebook.com/trySUGAR/"><img src="/icons/facebook.svg" alt="fb" /></a>
-          <a href="https://www.tumblr.com/sugarcosmetics-blog"><img src="/icons/tumblr.svg" alt="tm" /></a>
-          <a href="https://www.youtube.com/channel/UCKVqnev2idvmUNKc2b91B8g"><img src="/icons/youtube.svg" alt="yt" /></a>
-          <a href="https://twitter.com/trySUGAR"><img src="/icons/twitter.svg" alt="tw" /></a>
-          <a href="https://www.instagram.com/trysugar/?hl=en"><img src="/icons/instagram.svg" alt="ig" /></a>
-          <a href="mailto:?subject=Check%20this%20https://in.sugarcosmetics.com/pages/offer"><img src="/icons/mail.png" alt="gm" /></a>
-          <a href="https://www.pinterest.com/sugarcosmetics/"><img src="/icons/pinterest.svg" alt="pn" /></a>
+          <a href="https://www.facebook.com/trySUGAR/"><FaFacebook /></a>
+          <a href="https://www.tumblr.com/sugarcosmetics-blog"><IoLogoTumblr /></a>
+          <a href="https://www.youtube.com/channel/UCKVqnev2idvmUNKc2b91B8g"><SiYoutubemusic /></a>
+          <a href="https://twitter.com/trySUGAR"><AiFillTwitterCircle /></a>
+          <a href="https://www.instagram.com/trysugar/?hl=en"><FaInstagram /></a>
+          <a href="mailto:?subject=Check%20this%20https://in.sugarcosmetics.com/pages/offer"><IoMdMailUnread />
+          </a>
+          <a href="https://www.pinterest.com/sugarcosmetics/"><FaPinterest /></a>
         </div>
         <hr />
         <div className="links_box">

@@ -53,7 +53,7 @@ function App() {
             <Skincare />
             <Beauty />
             <Lets />
-            <Footer />
+            {/* <Footer /> */}
           </>
         } />
         <Route path="/login" element={<Login />} />

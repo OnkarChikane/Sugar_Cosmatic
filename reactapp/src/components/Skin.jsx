@@ -8,7 +8,7 @@ import "./Skin.css";
 const products = [
   {
     id: 1,
-    name: 'Hand Sanitizer',
+    name: 'Coffee Culture Brightening Serum',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-spf30-sunscreen-28038344736851.jpg%3Fv%3D1619155723&w=256&q=75',
@@ -17,7 +17,7 @@ const products = [
   },
   {
     id: 2,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Citrus Got Real Daily Moisturizer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2Fparent1stcard_1_7aa4b700-2b5f-4212-8b56-86889ab8a390.jpg%3Fv%3D1716576402&w=256&q=75',
@@ -26,7 +26,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Citrus Got Real Daily Moisturizer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FMatteAttackTransferproofLipstickPDPimagesFinal1.jpg%3Fv%3D1714511152&w=256&q=75',
@@ -35,7 +35,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Citrus Got Real Daily Moisturizer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F464576762-launch_sugar-la-la-love-18hr-liquid-lipstick-wbg-powered-by-images_01.jpg%3Fv%3D1688227587&w=256&q=75',
@@ -44,7 +44,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Citrus Got Real Daily Moisturizer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FParent-Page_ac0201bb-8f51-447c-b6e0-4404786076a2.jpg%3Fv%3D1680364145&w=256&q=75',
@@ -53,7 +53,7 @@ const products = [
   },
   {
     id: 6,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Coffee Culture Brightening Serum',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-spf30-sunscreen-28038344736851.jpg%3Fv%3D1619155723&w=256&q=75',
@@ -62,7 +62,7 @@ const products = [
   },
   {
     id: 7,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Citrus Got Real Daily Moisturizer',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_ef579f2e-602e-4d2f-bed2-bf0efdf4f184.jpg%3Fv%3D1644325812&w=256&q=75',
@@ -71,7 +71,7 @@ const products = [
   },
   {
     id: 8,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Coffee Culture Brightening Serum',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644421218&w=256&q=75',
@@ -80,7 +80,7 @@ const products = [
   },
   {
     id: 9,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Coffee Culture Brightening Serum',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FParent-01.jpg%3Fv%3D1691768624&w=256&q=75',
@@ -89,7 +89,7 @@ const products = [
   },
   {
     id: 10,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Coffee Culture Brightening Serum',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lipping-on-the-edge-lip-liner-01-taffeta-terracotta-13278188568659.jpg%3Fv%3D1619109027&w=256&q=75',
@@ -98,7 +98,7 @@ const products = [
   },
   {
     id: 11,
-    name: 'Hand Sanitizer Wood Night',
+    name: 'Coffee Culture Brightening Serum',
     rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FArtboard1.jpg%3Fv%3D1676035816&w=256&q=75',
@@ -107,8 +107,7 @@ const products = [
   },
   {
     id: 12,
-    name: 'Hand Sanitizer Wood Night',
-    rating: '* * * * *',
+    name: 'Hand Sanitizer Wood Night',name: 'Coffee Culture Brightening Serum',  rating: '* * * * *',
     price: '8,90 €',
     imgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F599125845-01.jpg%3Fv%3D1711208074&w=256&q=75',
     hoverImgSrc: 'https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F599125845-01.jpg%3Fv%3D1711208074&w=256&q=75',
