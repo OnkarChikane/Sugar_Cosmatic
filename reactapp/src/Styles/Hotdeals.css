@@ -1,0 +1,16 @@
+.carousal_btn_next,
+.carousal_btn_prev {
+  position: absolute;
+  font-size: 3rem;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  color: white;
+  top: 30vh;
+}
+.carousal_btn_prev {
+  left: 2vw;
+}
+.carousal_btn_next {
+  right: 2vw;
+}
